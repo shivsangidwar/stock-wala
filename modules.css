@@ -1,0 +1,26 @@
+.pagelink{
+    background-color: transparent;
+    color: black;
+    text-decoration: none;
+}
+.ModuleHeading{
+    color: black;
+}
+.ModuleHeading:hover{
+    color: rgb(0, 149, 255);
+
+}
+
+#head{
+    background-color: rgb(7,40,59,255);
+    color: white;
+}
+input{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 35px;
+    border-radius: 7px ;
+
+}
+
+

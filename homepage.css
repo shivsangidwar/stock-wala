@@ -1,0 +1,75 @@
+
+#start{
+    background-color:transparent;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 25px;
+    
+    
+}
+#formtext{
+    font-size: 25px;
+}
+.nav-link{
+    font-size: 20px;
+}
+.card-body{
+    color: rgb(255, 255, 255);
+    
+}
+input{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 35px;
+    border-radius: 7px ;
+
+}
+/* label{
+    color: white;
+} */
+ .submit{
+    border: solid 1px ;
+    background-color:transparent;
+    color: white;
+    margin-left:32%;
+    padding: 10px 25px 10px 25px;
+    background-color: rgb(14, 22, 29); 
+    border-radius: 5px;
+    
+ }
+ .col-md-6{
+    
+    
+    margin: auto;
+ }
+ #formtext{
+    margin-left: 45%;
+ }
+ form{
+    /* border: solid 0.1px; */
+    padding: 8%;
+    width: fit-content;
+    background-color:rgb(255, 255, 255,0.1) ;
+    border-radius: 7px;
+    margin-left: 13.5%;
+ }
+ .card{
+   padding: 
+   
+   0px;
+      
+ }
+ .card-title{
+    color: black;
+ }
+ #query{
+    height: 70px;
+
+ }
+ #cardname{
+    background-color:transparent;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 18px;
+ }
+
